@@ -54,7 +54,7 @@ It reads invoices from multiple Excel workbooks, groups and summarizes the data,
 
 ## 📸 Screenshots
 
-> _Coming soon!_ (You can add screenshots of the GUI and sample PDF output here.)
+> _Coming soon!_
 
 ---
 
@@ -122,7 +122,7 @@ This project gave me practical exposure to building full-featured automation app
 Would love to hear your thoughts or collaborate on more automation projects!  
 Feel free to reach out 👇
 
-- 📧 **Email:** [adityasagave@gmail.com]
+- 📧 **Email:** [adityasagave@gmail.com](adityasagave@gmail.com)
 - 🔗 **LinkedIn:** [linkedin.com/in/adityasagave](https://www.linkedin.com/in/adityasagave)
 - 🐍 **More Python Projects:** [github.com/AdityaSagave](https://www.github.com/AdityaSagave)
 
