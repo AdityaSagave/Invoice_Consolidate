@@ -1,4 +1,4 @@
-# 💼✨ Excel Invoice Consolidator — PDF Report Generator Desktop App
+# 💼 Excel Invoice Consolidator — PDF Report Generator Desktop App
 
 ### 🚀 Built with: `Python` + `Tkinter` + `Pandas` + `ReportLab`
 
@@ -122,9 +122,9 @@ This project gave me practical exposure to building full-featured automation app
 Would love to hear your thoughts or collaborate on more automation projects!  
 Feel free to reach out 👇
 
-- 📧 **Email:** [your-email@example.com]
-- 🔗 **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/adityasagave)
-- 🐍 **More Python Projects:** [github.com/your-username](https://github.com/AdityaSagave)
+- 📧 **Email:** []
+- 🔗 **LinkedIn:** [linkedin.com/in/adityasagave](https://www.linkedin.com/in/adityasagave)
+- 🐍 **More Python Projects:** [github.com/AdityaSagave](https://www.github.com/AdityaSagave)
 
 ---
 
