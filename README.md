@@ -123,8 +123,8 @@ Would love to hear your thoughts or collaborate on more automation projects!
 Feel free to reach out 👇
 
 - 📧 **Email:** [your-email@example.com]
-- 🔗 **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- 🐍 **More Python Projects:** [github.com/your-username](https://github.com/your-username)
+- 🔗 **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/adityasagave)
+- 🐍 **More Python Projects:** [github.com/your-username](https://github.com/AdityaSagave)
 
 ---
 
