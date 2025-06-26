@@ -49,6 +49,8 @@ Choose a location to save the output as a **PDF file** – perfect for sending o
 ## 📸 Screenshot (Optional)
 > ![image](https://github.com/user-attachments/assets/a6f1a4b4-3a7c-45e9-9b40-01fc5a0db5da)
 ![image](https://github.com/user-attachments/assets/078690e7-6209-4320-9450-31c00afa5310)
+> ![image](https://github.com/user-attachments/assets/3b531d3d-cac4-46fc-a7fa-d3e1d9535f94)
+
 
 
 
