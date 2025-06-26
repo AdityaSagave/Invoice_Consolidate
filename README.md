@@ -122,7 +122,7 @@ This project gave me practical exposure to building full-featured automation app
 Would love to hear your thoughts or collaborate on more automation projects!  
 Feel free to reach out 👇
 
-- 📧 **Email:** []
+- 📧 **Email:** [adityasagave@gmail.com]
 - 🔗 **LinkedIn:** [linkedin.com/in/adityasagave](https://www.linkedin.com/in/adityasagave)
 - 🐍 **More Python Projects:** [github.com/AdityaSagave](https://www.github.com/AdityaSagave)
 
