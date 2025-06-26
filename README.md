@@ -95,6 +95,7 @@ git clone https://github.com/your-username/invoice-consolidator
 cd invoice-consolidator
 pip install -r requirements.txt
 python main.py
+```
 
 ## ⚙️ Requirements
 
